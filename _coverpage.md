@@ -1,10 +1,10 @@
-# Shiro Action
+# iblog
 
-> 一个基于 Shiro 的权限管理系统
+> 一个基于 springboot 的超轻量级博客系统( An ultra lightweight blogging system )
 
-* 支持 HTTP Method 级别的权限控制
-* 支持全局异常处理
-* 页面简洁、易用
+* 一键部署、功能完善、主题自由切换、项目文档 / 代码注释详细
 
-[GitHub](https://github.com/docsifyjs/docsify/)
-[查看文档](#快速入门)
+*www.iblog.run，iblog.run@foxmail.com*
+
+[GitHub repo](https://github.com/yubuntu0109/iblog/)
+[Getting Started](#guide)

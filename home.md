@@ -1,1 +1,3 @@
-# 快速入门
+# guide
+
+!> *not updated，let's look forward to it .*
