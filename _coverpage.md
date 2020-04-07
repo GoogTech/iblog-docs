@@ -4,7 +4,7 @@
 
 * 一键部署、功能完善、高扩展性、主题自由切换、代码注释 / 项目文档详细
 
-*  automated testing and deployment with azure devops
+* enable continuous integration and deployment with azure devops
 
 * ![Build status](https://dev.azure.com/Gentleman0109/AzureDevOps-iblog-demo/_apis/build/status/AzureDevOps-test-Maven-CI)
 
